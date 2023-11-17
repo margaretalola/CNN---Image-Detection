@@ -1,1 +1,1 @@
-# CNN---Image-Detection
+# CNN-Image Detection
